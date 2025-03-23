@@ -1,0 +1,36 @@
+.navigator {
+  display: flex;
+  gap: 5px;
+}
+
+.perPage {
+  width: 100px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.continue {
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pageBtn {
+  padding: 10px;
+  height: 50px;
+  min-width: 50px;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 5px;
+
+  &:disabled {
+    opacity: 0.5;
+  }
+}
+
+.active {
+  color: white;
+  background: #000;
+  border: 1px solid white;
+}

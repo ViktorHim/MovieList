@@ -1,0 +1,24 @@
+.layout {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 3fr;
+  gap: 30px;
+}
+
+.poster {
+  grid-row: span 2;
+  object-fit: cover;
+}
+
+.backButton {
+  position: fixed;
+  color: white;
+  background-color: #000;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+
+  top: 80px;
+  left: 20px;
+  padding: 10px;
+}
