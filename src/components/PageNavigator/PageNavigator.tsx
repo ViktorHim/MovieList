@@ -16,6 +16,8 @@ const PAGES_BEHIND = 4;
 export const PageNavigator = (props: PageNavigatorProps) => {
   const { total, current, setCurrent, itemsPerPage, setItemsPerPage } = props;
 
+  if (current > total) setCurrent(total);
+
   const pages = useMemo(() => {
     let startPos = Math.max(1, current - PAGES_BEHIND);
     let endPos = Math.min(total, current + PAGES_AHEAD);

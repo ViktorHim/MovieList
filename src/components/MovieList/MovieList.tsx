@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { Movie } from "../../types/Movie";
 import { MovieItem } from "../MovieItem/MovieItem";
 
@@ -16,7 +16,6 @@ export const MovieList = (props: MovieListProps) => {
   const { setCount, currentPage, itemsPerPage, className = "" } = props;
 
   const [movies, setMovies] = useState<Movie[]>([]);
-  console.log(currentPage);
   useEffect(() => {
     async function fetchMovies() {
       try {
@@ -37,9 +36,25 @@ export const MovieList = (props: MovieListProps) => {
     fetchMovies();
   }, [currentPage, itemsPerPage]);
 
+  const modifiedMovies = useMemo(() => {
+    return movies.map((movie) => {
+      const localData = localStorage.getItem(`movie_${movie.id}`);
+
+      if (localData) {
+        const localMovie: Partial<Movie> = JSON.parse(localData);
+        const { title, description } = localMovie;
+        if (!title || !description) return movie;
+
+        return { ...movie, title, description };
+      }
+
+      return movie;
+    });
+  }, [movies]);
+
   return (
     <ul className={cn(cls.list, className)}>
-      {movies.map((movie) => {
+      {modifiedMovies.map((movie) => {
         return <MovieItem key={movie.id} movie={movie} />;
       })}
     </ul>
