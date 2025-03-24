@@ -26,7 +26,7 @@ export const MoviePage = () => {
       const localMovie: Partial<Movie> = JSON.parse(localData);
       const { title, description } = localMovie;
 
-      if (title && description) {
+      if (movie && title && description) {
         return { ...movie, title, description };
       }
     }

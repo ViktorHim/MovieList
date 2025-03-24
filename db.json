@@ -10,171 +10,163 @@
     },
     {
       "id": 2,
-      "title": "Интерстеллар",
-      "year": 2014,
-      "genre": "Фантастика",
-      "description": "Группа исследователей отправляется в далёкие уголки космоса, чтобы найти новый дом для человечества.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c3/Interstellar_2014.jpg/323px-Interstellar_2014.jpg"
+      "title": "Король Лев",
+      "genre": "мультфильм",
+      "year": 1994,
+      "description": "История львёнка Симбы, становящегося правителем саванны.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/6/62/Lion_king_ver1.jpg"
     },
     {
       "id": 3,
-      "title": "Начало",
-      "year": 2010,
-      "genre": "Фантастика, Боевик",
-      "description": "Мастер проникновения в подсознание выполняет самый сложный заказ в своей жизни.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/bc/Poster_Inception_film_2010.jpg/318px-Poster_Inception_film_2010.jpg"
+      "title": "Один дома",
+      "genre": "комедия",
+      "year": 1990,
+      "description": "Мальчик устраивает ловушки для грабителей, оставшись один дома.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/03/Home_Alone_dvd_rus.jpg/405px-Home_Alone_dvd_rus.jpg"
     },
     {
       "id": 4,
-      "title": "Аватар",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Криминальное чтиво",
+      "genre": "криминал",
+      "year": 1994,
+      "description": "Переплетающиеся истории гангстеров, боксёра и бандитов.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/93/Pulp_Fiction.jpg/317px-Pulp_Fiction.jpg"
     },
     {
       "id": 5,
-      "title": "f",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Бегущий по лезвию 2049",
+      "genre": "фантастика",
+      "year": 2017,
+      "description": "История офицера К, который раскрывает тайну, способную погрузить общество в хаос.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/9b/%D0%91%D0%B5%D0%B3%D1%83%D1%89%D0%B8%D0%B9_%D0%BF%D0%BE_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D1%8E_2049.jpg/330px-%D0%91%D0%B5%D0%B3%D1%83%D1%89%D0%B8%D0%B9_%D0%BF%D0%BE_%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D1%8E_2049.jpg"
     },
     {
       "id": 6,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Интерстеллар",
+      "genre": "фантастика",
+      "year": 2014,
+      "description": "Экспедиция через червоточину в поисках нового дома для человечества.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c3/Interstellar_2014.jpg/323px-Interstellar_2014.jpg"
     },
     {
       "id": 7,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Крёстный отец",
+      "genre": "драма",
+      "year": 1972,
+      "description": "Эпическая сага о сицилийской мафиозной семье Корлеоне.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/c/c4/Godfather_vhs.jpg"
     },
     {
       "id": 8,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Тёмный рыцарь",
+      "genre": "боевик",
+      "year": 2008,
+      "description": "Бэтмен сталкивается со своим самым опасным противником — Джокером.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f4/%D0%A2%D1%91%D0%BC%D0%BD%D1%8B%D0%B9_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C_%282008%29_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg/300px-%D0%A2%D1%91%D0%BC%D0%BD%D1%8B%D0%B9_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C_%282008%29_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg"
     },
     {
       "id": 9,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Форрест Гамп",
+      "genre": "драма",
+      "year": 1994,
+      "description": "История простого человека, ставшего свидетелем ключевых событий американской истории.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/de/%D0%A4%D0%BE%D1%80%D1%80%D0%B5%D1%81%D1%82_%D0%93%D0%B0%D0%BC%D0%BF.jpg/341px-%D0%A4%D0%BE%D1%80%D1%80%D0%B5%D1%81%D1%82_%D0%93%D0%B0%D0%BC%D0%BF.jpg"
     },
     {
       "id": 10,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Начало",
+      "genre": "фантастика",
+      "year": 2010,
+      "description": "Профессиональные воры, крадущие идеи через сновидения.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/bc/Poster_Inception_film_2010.jpg/318px-Poster_Inception_film_2010.jpg"
     },
     {
       "id": 11,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "title": "Пираты Карибского моря",
+      "genre": "приключения",
+      "year": 2003,
+      "description": "Приключения капитана Джека Воробья в поисках проклятого золота.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/7/79/Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-.jpg/302px-Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-.jpg"
     },
     {
-      "id": 1,
-      "title": "Остров проктлятых",
-      "year": 2010,
+      "id": 12,
+      "title": "Матрица",
+      "genre": "фантастика",
+      "year": 1999,
+      "description": "Хакер Нео узнаёт шокирующую правду о реальном мире.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/9d/Matrix-DVD.jpg/325px-Matrix-DVD.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Титаник",
+      "genre": "мелодрама",
+      "year": 1997,
+      "description": "История любви на фоне крушения легендарного лайнера.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/1/19/Titanic_%28Official_Film_Poster%29.png/313px-Titanic_%28Official_Film_Poster%29.png"
+    },
+    {
+      "id": 14,
+      "title": "Властелин колец: Братство кольца",
+      "genre": "фэнтези",
+      "year": 2001,
+      "description": "Эпическое путешествие по Средиземью для уничтожения Кольца Всевластия.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/08/The_Lord_of_the_Rings._The_Fellowship_of_the_Ring_%E2%80%94_movie.jpg/296px-The_Lord_of_the_Rings._The_Fellowship_of_the_Ring_%E2%80%94_movie.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Гладиатор",
+      "genre": "исторический",
+      "year": 2000,
+      "description": "Генерал Максимус мстит за смерть семьи, становясь гладиатором.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/fe/Gladiatorteaser.jpg/306px-Gladiatorteaser.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Джокер",
       "genre": "триллер",
-      "description": "Осенью 1954 года маршал США Эдвард (Тедди) Дэниелс (Леонардо Ди Каприо) и его напарник Чак Оул (Марк Руффало) направляются расследовать исчезновение детоубийцы Рэйчел Соландо, сбежавшей из Эшклиффской лечебницы для душевнобольных преступников на острове Шаттер, в море неподалёку от Бостона. Лечебница строго охраняется, 42 её пациента находятся в обычных корпусах, а ещё 24 особо опасных — внутри бывшего военного форта, переоборудованного в третий корпус лечебницы. Лечащий врач Рэйчел — доктор Лестер Шин уехал с острова сразу после её исчезновения.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/2/22/Kinopoisk.ru-Shutter-Island-1094940.jpg"
+      "year": 2019,
+      "description": "Происхождение легендарного злодея из вселенной Бэтмена.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/6f/%D0%94%D0%B6%D0%BE%D0%BA%D0%B5%D1%80_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_%D0%A2%D0%BE%D0%B4%D0%B4%D0%B0_%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D0%BF%D1%81%D0%B0%29.jpg/304px-%D0%94%D0%B6%D0%BE%D0%BA%D0%B5%D1%80_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_%D0%A2%D0%BE%D0%B4%D0%B4%D0%B0_%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D0%BF%D1%81%D0%B0%29.jpg"
     },
     {
-      "id": 2,
-      "title": "Интерстеллар",
-      "year": 2014,
-      "genre": "Фантастика",
-      "description": "Группа исследователей отправляется в далёкие уголки космоса, чтобы найти новый дом для человечества.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c3/Interstellar_2014.jpg/323px-Interstellar_2014.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Начало",
-      "year": 2010,
-      "genre": "Фантастика, Боевик",
-      "description": "Мастер проникновения в подсознание выполняет самый сложный заказ в своей жизни.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/bc/Poster_Inception_film_2010.jpg/318px-Poster_Inception_film_2010.jpg"
-    },
-    {
-      "id": 4,
+      "id": 17,
       "title": "Аватар",
+      "genre": "фантастика",
       "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
+      "description": "Путешествие на планету Пандора и конфликт между людьми и на'ви.",
       "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
     },
     {
-      "id": 5,
-      "title": "f",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "id": 18,
+      "title": "Бойцовский клуб",
+      "genre": "драма",
+      "year": 1999,
+      "description": "Подпольный клуб для снятия стресса оборачивается культом.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8a/Fight_club.jpg/316px-Fight_club.jpg"
     },
     {
-      "id": 6,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "id": 19,
+      "title": "Звёздные войны: Империя наносит ответный удар",
+      "genre": "фантастика",
+      "year": 1980,
+      "description": "Продолжение борьбы повстанцев против Галактической Империи.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/e/e0/Empire20strikes20back_old.jpg/345px-Empire20strikes20back_old.jpg"
     },
     {
-      "id": 7,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "id": 20,
+      "title": "Побег из Шоушенка",
+      "genre": "драма",
+      "year": 1994,
+      "description": "История невиновного банкира, планирующего побег из тюрьмы.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/de/Movie_poster_the_shawshank_redemption.jpg/317px-Movie_poster_the_shawshank_redemption.jpg"
     },
     {
-      "id": 8,
-      "title": "safd",
+      "id": 21,
+      "title": "Хатико",
+      "genre": "драма",
       "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
-    },
-    {
-      "id": 9,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
-    },
-    {
-      "id": 10,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
-    },
-    {
-      "id": 11,
-      "title": "safd",
-      "year": 2009,
-      "genre": "Фантастика, Приключения",
-      "description": "Человек в теле аватара должен найти свое место среди местных жителей Пандоры.",
-      "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4b/Avatar-2009.jpg/300px-Avatar-2009.jpg"
+      "description": "Трогательная история верности пса Хатико своему хозяину.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/e/e3/%D0%A5%D0%B0%D1%82%D0%B8%D0%BA%D0%BE-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.jpg"
     }
   ]
 }
